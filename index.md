@@ -1,7 +1,12 @@
-# Welcome to my Website!!!
+# Anthony Gil's First CS193 Homework
 
-  I am Anthony Gil, a freshman at purdue looking to CODO into CS. 
-  Wish me luck!!!
+## CS 193's Awesome Benefits
+- It seems to be a class that is specifically tailored to be usefull first, which is a welcome rest from purdue's harder weedout classes (Calc 2 = human rights abuse).
+- Before this I wasn't very familiar with github (I used it mostly to download indie games) so this homework was fun as an introduction.
+- Distinguished selection of memes. 
+- The ice breakers were surprisingly fun.
+- Im learnign how to use Linux so this class focusing on that is also very good for me.
+- Great HW 0 hacker theme B).
 
 ## Welcome to GitHub Pages
 
